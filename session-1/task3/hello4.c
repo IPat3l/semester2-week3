@@ -2,6 +2,7 @@
 /*
  * Hello world program
  * - compilation errors?
+ * No errors, just outputted differently
  */
 
 #include <stdio.h>
